@@ -1,0 +1,17 @@
+D:\E-StockMarket\APIGateway\bin\Debug\netcoreapp2.1\configuration.json
+D:\E-StockMarket\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.deps.json
+D:\E-StockMarket\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.json
+D:\E-StockMarket\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.runtimeconfig.dev.json
+D:\E-StockMarket\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.dll
+D:\E-StockMarket\APIGateway\bin\Debug\netcoreapp2.1\APIGateway.pdb
+D:\E-StockMarket\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.AssemblyReference.cache
+D:\E-StockMarket\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-StockMarket\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfoInputs.cache
+D:\E-StockMarket\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.AssemblyInfo.cs
+D:\E-StockMarket\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.csproj.CoreCompileInputs.cache
+D:\E-StockMarket\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cache
+D:\E-StockMarket\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorAssemblyInfo.cs
+D:\E-StockMarket\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.RazorTargetAssemblyInfo.cache
+D:\E-StockMarket\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.dll
+D:\E-StockMarket\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.pdb
+D:\E-StockMarket\APIGateway\obj\Debug\netcoreapp2.1\APIGateway.genruntimeconfig.cache
