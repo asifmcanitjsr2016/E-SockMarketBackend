@@ -99,13 +99,11 @@ namespace Company.Services
         }
 
         public List<Stock> GetAllStock(string companycode, string startDate, string endDate)
-        {
-
-            var StartDate = Convert.ToDateTime(startDate).Date;
-            var EndDate = Convert.ToDateTime(endDate).Date;
-
+        {            
             try
             {
+                var StartDate = Convert.ToDateTime(startDate, System.Globalization.CultureInfo.GetCultureInfo("hi-IN").DateTimeFormat).Date;
+                var EndDate = Convert.ToDateTime(endDate, System.Globalization.CultureInfo.GetCultureInfo("hi-IN").DateTimeFormat).Date;
                 var data = _companies.Find(company => company.Code == companycode).FirstOrDefault();
                 if (data == null)
                     return null;
